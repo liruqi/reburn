@@ -1,0 +1,129 @@
+{
+  "translations": [
+    {
+      "id": "seg-000001-b4705e46b67f",
+      "source_sha256": "b4705e46b67f9245bf7c584b1ab124fcf8c3a81246f4fc2fbe747efc78fb6d67",
+      "translation": "人们窃窃私语"
+    },
+    {
+      "id": "seg-000002-a22b837f1fda",
+      "source_sha256": "a22b837f1fda561c729a31e8dfd1a302eaff3caa546bc8b8ab3e43499d8a7e2d",
+      "translation": "说我是租妻 外国军人"
+    },
+    {
+      "id": "seg-000003-9da02ba3b34d",
+      "source_sha256": "9da02ba3b34d2091a9aa893968e4e10566a9a011acd6c2821181994ac094e1db",
+      "translation": "随便他们吧 我们这里有钱"
+    },
+    {
+      "id": "seg-000004-0d1bea773bef",
+      "source_sha256": "0d1bea773bef609151f77e8c309b54a8257046aa956e6f7b27e3d412eefba5a2",
+      "translation": "哦 年轻的哥哥 你是我的挚爱"
+    },
+    {
+      "id": "seg-000005-9b78f16d811c",
+      "source_sha256": "9b78f16d811c271f365c8ea4df35fca13047f2252e8c70beeda40699fdd6ce76",
+      "translation": "感谢你来到我身边 牵着我"
+    },
+    {
+      "id": "seg-000006-c4714cf89729",
+      "source_sha256": "c4714cf8972906e9372d79d82f45118f861968f5cbc93bfc618c30866f1af405",
+      "translation": "还带着金钱"
+    },
+    {
+      "id": "seg-000007-46437ca33596",
+      "source_sha256": "46437ca33596079b311155bbeeda3329747a5711b1a44a160fe1e05d8626b07f",
+      "translation": "没几个美元 勉强够糊口"
+    },
+    {
+      "id": "seg-000008-d5f9cf222e48",
+      "source_sha256": "d5f9cf222e484875be3338ab17e874fa10affa66257d71d084683f4b391e1890",
+      "translation": "我出身低微 选择又少"
+    },
+    {
+      "id": "seg-000009-acdb004169a5",
+      "source_sha256": "acdb004169a53a2fa83d1eea30f33683a0fd6db1ab335c50c4af327b909cc393",
+      "translation": "还背着债务 于是决定离开家乡"
+    },
+    {
+      "id": "seg-000010-265f4e6eaf19",
+      "source_sha256": "265f4e6eaf19593b60c90c9c8e4f383b1ffe0e4a4ce55a2f1d1f47f5dc3fc3cb",
+      "translation": "来乌隆府谋生 人们窃窃私语"
+    },
+    {
+      "id": "seg-000011-cc0b956c7f12",
+      "source_sha256": "cc0b956c7f12762f1ca2ffa23c8d87c269db409e924acf52ba3315041b82f8b1",
+      "translation": "说我是租妻 外国军人"
+    },
+    {
+      "id": "seg-000012-9298d4f73bb6",
+      "source_sha256": "9298d4f73bb6372eafd55130f870440c49850faf6a1669622bcfea533d3495fe",
+      "translation": "随便他们吧 这里有钱 他们不了解真相"
+    },
+    {
+      "id": "seg-000013-868af7f02bad",
+      "source_sha256": "868af7f02baded7d253392f49314819f8e5f3c8770ed42d93d0bac2acf93f156",
+      "translation": "就到处说闲话 回头来听听我的故事"
+    },
+    {
+      "id": "seg-000014-07d1ad3737d1",
+      "source_sha256": "07d1ad3737d12880a65563ea9914a79327e5b2f6c0c9945968daf87827416cca",
+      "translation": "我做租妻 是迫不得已"
+    },
+    {
+      "id": "seg-000015-b3798056b44d",
+      "source_sha256": "b3798056b44d5b2fad93d04f6798a86c67c167294f68272fb3be6799d1a34160",
+      "translation": "回想那些苦难 饭菜都很贵"
+    },
+    {
+      "id": "seg-000016-20d91336bf87",
+      "source_sha256": "20d91336bf87762bf900996d56f634d8b0b8d2ea14d943bcaeb322c55ea628b5",
+      "translation": "才这样做 为了父母能活下去 人们窃窃私语"
+    },
+    {
+      "id": "seg-000017-39bab6949420",
+      "source_sha256": "39bab6949420ff62c954710294eb485ec82bfe5dd763883b04e2a87939eaee71",
+      "translation": "说我是租妻 外国军人"
+    },
+    {
+      "id": "seg-000018-31ef53395ff6",
+      "source_sha256": "31ef53395ff6baa1f3af528232e9f6c830cd4fb78f80cd00854f69e63f904098",
+      "translation": "随便他们吧 这里有钱 他们不了解真相"
+    },
+    {
+      "id": "seg-000019-cec5cb00bfd2",
+      "source_sha256": "cec5cb00bfd2f273d30138a11c13700c1b212cc94c032751526bef5959a2b96c",
+      "translation": "就到处说闲话 回头来听听我的故事"
+    },
+    {
+      "id": "seg-000020-7e6bfb330f7e",
+      "source_sha256": "7e6bfb330f7e85c56672c21ccedee0ebca63f638f2c666190f9977ffa8b44980",
+      "translation": "我做租妻 是迫不得已"
+    },
+    {
+      "id": "seg-000021-b8307393a218",
+      "source_sha256": "b8307393a218486eb8706b46274de558c121600f6ee00d48b812bbaf78973aa6",
+      "translation": "回想那些苦难 饭菜都很贵"
+    },
+    {
+      "id": "seg-000022-86270e8f6600",
+      "source_sha256": "86270e8f66007e4cf05bb9f3f932742ec0af42223de25ae163b8931f1823dd1b",
+      "translation": "才这样做 为了父母能活下去 人们窃窃私语"
+    },
+    {
+      "id": "seg-000023-d3ee9930f71c",
+      "source_sha256": "d3ee9930f71ca37831ae1b69962bc0d5cb58eb34fb079106b1934cda4b3625c2",
+      "translation": "说我是租妻 外国军人 随便他们吧"
+    },
+    {
+      "id": "seg-000024-fc58d7ba35d5",
+      "source_sha256": "fc58d7ba35d54e66884107ae3b4400e5e2303dcd4a28c93715ef82bde46206a5",
+      "translation": "这里有钱 他们不了解真相 就到处说闲话"
+    },
+    {
+      "id": "seg-000025-49a5780c4361",
+      "source_sha256": "49a5780c4361a0fe5213372a122585990c38c6d5befec300fef9a809ce5a938b",
+      "translation": "去吧"
+    }
+  ]
+}
